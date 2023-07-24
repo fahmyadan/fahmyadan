@@ -4,14 +4,10 @@
 
 🎓 My name is Fahmy Adan and I am a postgraduate research student @ Imperial College London passionate about artificial intelligence, robotics and autonomous vehicles.
 
-📚 My research interests include but are not limited to MARL for control, Computer Vision, Robot Localisation and Mapping
+📚 My research interests include but are not limited to MPC and MARL for control, Computer Vision, Robot Localisation and Mapping
 
 🚗 I am the Team Manager of Imperial Driverless, a student-led autonomous racecar project competing annually in the Formula Student Artificial Intelligence competition.
 
-## 🏅 Achievements
-
--   🥇 **Highest A-Level Physics Grade** in my country awarded by the Cambridge Examination board . (2015)
--   💰 **3rd place** for Imperial Driverless in our first year competing in Formula Student. (2022)
 
 ## 🛠️ Skills
 
@@ -23,30 +19,28 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
 
 
-### Front-End Development
+### Robotics Development
 
-![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter&logoColor=FFFFFF)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![SETUPTOOLS](https://img.shields.io/badge/SETUPTOOLS-008080?style=for-the-badge&logo=pypi&logoColor=white)
 
-### Back-End Development
 
-![fast-api](https://img.shields.io/badge/Fast_Api-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### Hardware Acceleration
 
-### Database
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-8400FF?style=for-the-badge&logo=jax&logoColor=white)
 
-![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
+<!--
 ## 📈 Stats
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahmyadan)](https://github.com/anuraghazra/github-readme-stats)
+--->
 
 ## 🔗 Links
 
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)]
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fahmy-adan-5225a3125/))
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)]()
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fahmy-adan-5225a3125/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/fahmyadan)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:adanfahmy@gmail.com)
 
