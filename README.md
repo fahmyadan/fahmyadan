@@ -4,8 +4,6 @@
 
 🎓 My name is Fahmy Adan and I am a postgraduate research student @ Imperial College London passionate about artificial intelligence, robotics and autonomous vehicles.
 
-📚 My research interests include but are not limited to MPC and MARL for control, Computer Vision, Robot Localisation and Mapping
-
 🚗 I am the Team Manager of Imperial Driverless, a student-led autonomous racecar project competing annually in the Formula Student Artificial Intelligence competition.
 
 
@@ -14,9 +12,8 @@
 ### Languages
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Matlab](https://img.shields.io/badge/Matlab-00599C?style=for-the-badge&logo=Matlab&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-00599C?style=for-the-badge&logo=Matlab&logoColor=white)
 
 
 ### Robotics Development
